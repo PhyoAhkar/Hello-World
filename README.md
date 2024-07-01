@@ -1,5 +1,5 @@
 <html>
   <body>
-    <h1 bgcolor="red">Marquee</h1>
+    <h1 style="background:red;">Marquee</h1>
   </body>
 </html>
